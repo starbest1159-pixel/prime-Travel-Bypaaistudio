@@ -1,0 +1,6 @@
+{
+  "name": "China Prime",
+  "description": "Official website and service portal for China Prime sourcing, logistics, and supply chain solutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
